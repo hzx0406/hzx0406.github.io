@@ -1,11 +1,11 @@
 # Basic
 title: 黄sir
 subtitle: 个人站
-description: 欢迎来到我的个人站~
+description: This is my home field
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: Nice
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: 分享美文!!!
 url: "http://i3.sinaimg.cn/ent/2013/0625/U3349P28DT20130625181913.jpg"
 
 # Comment
@@ -15,8 +15,8 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: 1242189726
+    github: hzx0406
     # twitter: 
     mail: leopardpan@icloud.com
 
